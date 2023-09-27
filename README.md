@@ -14,3 +14,10 @@ o elemento entrada de formulário é usado para criar controles interativos para
 ## textarea
 o elemento textarea representa um controle de edição de texto simples de múltiplas linhas, útil quando você deseja permitir que os usuários insiram uma quantidade considerável de texto de formato livre, por exemplo, um comentário em um formulário de revisão ou feedback.
 
+## formulario 
+ferramentas usadas: 
+o site da mozila 
+html5 e css3
+
+colegas que desenvolveu o projeto: 
+eric e cristian 
