@@ -1,7 +1,27 @@
-h1 {background-color: red;}
+h1 {
+    background-color: red;
+    padding: 10px;
+}
 
-form {background-color: white;}
+form {
+    background-color: white;
+}
 
 button {
     background-color: red;
+    color: white;
 }
+title{
+    background-color: aqua;
+    margin: 0px;
+    font-size: 30px;
+    
+    }
+    
+    p{    
+      background-color: aquamarine;
+      margin: 1px;    
+    }
+    
+
+
